@@ -1,0 +1,22 @@
+# Ignore PDF files generated or added locally
+*.pdf
+
+# Build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*core
+
+# Common chapter outputs (binaries named 'main')
+main
+
+# Build directories
+build/
+
+# Archives from 'make dist'
+*.tar.bz2
