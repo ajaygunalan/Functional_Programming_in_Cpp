@@ -20,3 +20,6 @@ build/
 
 # Archives from 'make dist'
 *.tar.bz2
+
+# Editor settings
+.vscode/
